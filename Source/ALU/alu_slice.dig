@@ -204,12 +204,12 @@ Carry</string>
       <elementName>Rectangle</elementName>
       <elementAttributes>
         <entry>
-          <string>Label</string>
-          <string>Carry Computation</string>
-        </entry>
-        <entry>
           <string>RectHeight</string>
           <int>24</int>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Carry Computation</string>
         </entry>
         <entry>
           <string>RectWidth</string>
@@ -222,12 +222,12 @@ Carry</string>
       <elementName>Rectangle</elementName>
       <elementAttributes>
         <entry>
-          <string>Label</string>
-          <string>Result Computation</string>
-        </entry>
-        <entry>
           <string>RectHeight</string>
           <int>14</int>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Result Computation</string>
         </entry>
         <entry>
           <string>RectWidth</string>
@@ -286,6 +286,16 @@ Carry</string>
         </entry>
       </elementAttributes>
       <pos x="920" y="100"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>alu slice</string>
+        </entry>
+      </elementAttributes>
+      <pos x="620" y="0"/>
     </visualElement>
   </visualElements>
   <wires>
