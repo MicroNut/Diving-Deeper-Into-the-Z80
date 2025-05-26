@@ -28,11 +28,11 @@ In progress - Working on the Register section
 
 * [Ken Shirrif' Blog](https://www.righto.com/p/index.html) His site reverse engineered the Z80 die.
 
-*  [Z80 notes](https://github.com/shirriff/z80-notes) Gitub site of his notes on the layout of the Z80 die 
+    *  [Z80 notes](https://github.com/shirriff/z80-notes) Gitub site of his notes on the layout of the Z80 die 
 
-* [Baltazar Studios] (https://baltazarstudios.com/) Goran Devic's site where he reversed the Z80 die to make a netlist Z80 simulator and a FPGA Z80 soft core
+* [Baltazar Studios](https://baltazarstudios.com/) Goran Devic's site where he reversed the Z80 die to make a netlist Z80 simulator and a FPGA Z80 soft core
   
-*   [Z80Explorer](https://github.com/gdevic/Z80Explorer) Github site of the netlist Z80 simulator where you can see the processing on the Z80 die visually.
+    *   [Z80Explorer](https://github.com/gdevic/Z80Explorer) Github site of the netlist Z80 simulator where you can see the processing on the Z80 die visually.
   
-*  [A-Z80](https://github.com/gdevic/A-Z80) Github site with bdf files for Intel's FPGA to make a Z80 soft core. He includes an example of a working ZX Spectrum.
+    *  [A-Z80](https://github.com/gdevic/A-Z80) Github site with bdf files for Intel's FPGA to make a Z80 soft core. He includes an example of a working ZX Spectrum.
   
