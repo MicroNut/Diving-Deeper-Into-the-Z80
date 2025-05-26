@@ -26,7 +26,7 @@ In progress - Working on the Register section
 # References
 * [Visual6502](http://visual6502.org/images/pages/Zilog_Z84C00_die_shots.html) High resolution die shots of the Z80.
 
-* [Ken Shirrif' Blog](https://www.righto.com/p/index.html) His site reverse engineered the Z80 die.
+* [Ken Shirrif's Blog](https://www.righto.com/p/index.html) His site reverse engineered the Z80 die.
 
     *  [Z80 notes](https://github.com/shirriff/z80-notes) Gitub site of his notes on the layout of the Z80 die 
 
