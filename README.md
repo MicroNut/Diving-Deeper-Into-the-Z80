@@ -1,4 +1,8 @@
 # Diving Deeper Into the Z80
+<p align="center">
+  <img src="/Documentation/Resources/coverart.png" />
+</p>
+
 ![Alt text](/Documentation/Resources/coverart.png)
 # Summary 
 Exploring the inner logic of the Z80 using logic simulation. 
