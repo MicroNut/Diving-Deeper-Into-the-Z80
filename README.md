@@ -36,5 +36,5 @@ In progress - Working on the Register section
   
     *  [A-Z80](https://github.com/gdevic/A-Z80) Github site with bdf files for Intel's FPGA to make a Z80 soft core. He includes an example of a working ZX Spectrum.
     
-* [Digital]{https://github.com/hneemann/Digital) The logic simulator used to describe, test and simulate the Z80.
+* [Digital](https://github.com/hneemann/Digital) The logic simulator used to describe, test and simulate the Z80.
   
