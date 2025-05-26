@@ -1,7 +1,7 @@
 # Diving Deeper into the Z80
 <p align="center">
-  <a href="/Documentation/Diving Deeper into the Z80">
-    <img src="/Documentation/Resources/Diving Deeper into the Z80.pdf" alt="Diving Deeper into the Z80"/>
+  <a href="/Documentation/Diving Deeper into the Z80.pdf">
+    <img src="/Documentation/Resources/coverart.png" alt="Diving Deeper into the Z80"/>
   </a>
 </p>
 # Summary 
