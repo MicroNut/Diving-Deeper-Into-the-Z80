@@ -8,7 +8,7 @@
 # Description
 
 Come with me on an adventure discovering how the logic of the Zilog Z80 computer processing unit works. I'll be diving deep into the following
-(*) Registers - Where all values are stored
+* Registers - Where all values are stored
 (*) ALU - The arithmetic logic unit. Where all the logic is handled.
 (*) PLA - The programmable logic array. The decoder that reads the operation codes and directs them to the correct logic function
 (*) Timing - the timing of the read, write and other cycles
