@@ -1,4 +1,4 @@
-# [Diving Deeper into the Z80](/Documentation/Diving Deeper into the Z80.pdf)
+# [Diving Deeper into the Z80](https://github.com/MicroNut/Diving-Deeper-Into-the-Z80/blob/main/Documentation/Diving%20Deeper%20into%20the%20Z80.pdf)
 <p align="center">
   <a href="/Documentation/Diving Deeper into the Z80.pdf">
     <img src="/Documentation/Resources/coverart.png" alt="Diving Deeper into the Z80"/>
