@@ -21,8 +21,8 @@ Come with me on an adventure discovering how the logic of the Zilog Z80 computer
 * Putting it all together - Making a Z80 simulated system using VGA, 7 segment displays, 4x4 keypad and serial io using [Digital](https://github.com/hneemann/Digital) logic simulator.
 
 # Status 
-In progress - Working on the Register section
-
+* Register section completed
+* ALU section in progress
 # References
 * [Visual6502](http://visual6502.org/images/pages/Zilog_Z84C00_die_shots.html) High resolution die shots of the Z80.
 
