@@ -836,7 +836,7 @@
           <string>4</string>
         </entry>
       </elementAttributes>
-      <pos x="2400" y="740"/>
+      <pos x="2400" y="760"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
@@ -872,7 +872,7 @@
           <int>4</int>
         </entry>
       </elementAttributes>
-      <pos x="2520" y="760"/>
+      <pos x="2520" y="780"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -897,6 +897,86 @@
         </entry>
       </elementAttributes>
       <pos x="1260" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Hi bit 3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="600" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Hi bit 2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="860" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Hi bit 1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1120" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Hi bit 0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1380" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Lo bit 3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1640" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Lo bit 2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1900" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Lo bit 1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2160" y="720"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Lo bit 0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2420" y="720"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -1069,6 +1149,10 @@
       <p2 x="2160" y="140"/>
     </wire>
     <wire>
+      <p1 x="2400" y="780"/>
+      <p2 x="2520" y="780"/>
+    </wire>
+    <wire>
       <p1 x="240" y="400"/>
       <p2 x="260" y="400"/>
     </wire>
@@ -1175,10 +1259,6 @@
     <wire>
       <p1 x="1340" y="440"/>
       <p2 x="1600" y="440"/>
-    </wire>
-    <wire>
-      <p1 x="2400" y="760"/>
-      <p2 x="2520" y="760"/>
     </wire>
     <wire>
       <p1 x="280" y="220"/>
@@ -1454,7 +1534,7 @@
     </wire>
     <wire>
       <p1 x="1620" y="720"/>
-      <p2 x="1620" y="740"/>
+      <p2 x="1620" y="760"/>
     </wire>
     <wire>
       <p1 x="600" y="620"/>
@@ -1470,7 +1550,7 @@
     </wire>
     <wire>
       <p1 x="1880" y="720"/>
-      <p2 x="1880" y="740"/>
+      <p2 x="1880" y="760"/>
     </wire>
     <wire>
       <p1 x="860" y="620"/>
@@ -1486,7 +1566,7 @@
     </wire>
     <wire>
       <p1 x="2140" y="720"/>
-      <p2 x="2140" y="740"/>
+      <p2 x="2140" y="760"/>
     </wire>
     <wire>
       <p1 x="1120" y="620"/>
@@ -1502,7 +1582,7 @@
     </wire>
     <wire>
       <p1 x="2400" y="720"/>
-      <p2 x="2400" y="740"/>
+      <p2 x="2400" y="760"/>
     </wire>
     <wire>
       <p1 x="480" y="480"/>

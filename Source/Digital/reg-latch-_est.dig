@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>D_FF</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Bits</string>
+          <int>8</int>
+        </entry>
+      </elementAttributes>
+      <pos x="800" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Driver</elementName>
+      <elementAttributes>
+        <entry>
+          <string>flipSelPos</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="760" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Driver</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Bits</string>
+          <int>8</int>
+        </entry>
+      </elementAttributes>
+      <pos x="900" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>we</string>
+        </entry>
+      </elementAttributes>
+      <pos x="720" y="540"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>oe</string>
+        </entry>
+      </elementAttributes>
+      <pos x="720" y="460"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>8 bi Bidirectional data bus</string>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>db_out</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>8</int>
+        </entry>
+      </elementAttributes>
+      <pos x="960" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>db_in</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>8</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>Bi-directional 8 bit Data bus</string>
+        </entry>
+      </elementAttributes>
+      <pos x="720" y="420"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Clock</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>clk</string>
+        </entry>
+        <entry>
+          <string>runRealTime</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="720" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Testcase</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Register Test</string>
+        </entry>
+        <entry>
+          <string>Testdata</string>
+          <testData>
+            <dataString>clk  oe  we  db_in  db_out
+0    0    0   0x5a   z
+c    0    0   0x5a   z
+0    0    1   0x5a   z
+c    0    1   0x5a   z
+0    1    0   0x5a   0x5a
+C    0    1   0xa5   z
+0    1    0   0xa5   0xa5
+
+</dataString>
+          </testData>
+        </entry>
+      </elementAttributes>
+      <pos x="840" y="400"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="860" y="480"/>
+      <p2 x="880" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="780" y="480"/>
+      <p2 x="800" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="920" y="480"/>
+      <p2 x="960" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="780" y="500"/>
+      <p2 x="800" y="500"/>
+    </wire>
+    <wire>
+      <p1 x="720" y="500"/>
+      <p2 x="740" y="500"/>
+    </wire>
+    <wire>
+      <p1 x="720" y="420"/>
+      <p2 x="780" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="720" y="540"/>
+      <p2 x="760" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="720" y="460"/>
+      <p2 x="900" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="760" y="520"/>
+      <p2 x="760" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="780" y="420"/>
+      <p2 x="780" y="480"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>
