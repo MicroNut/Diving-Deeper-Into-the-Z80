@@ -149,10 +149,10 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>D</string>
+          <string>ENA</string>
         </entry>
       </elementAttributes>
-      <pos x="480" y="340"/>
+      <pos x="480" y="420"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -169,10 +169,14 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>ENA</string>
+          <string>D</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>4</int>
         </entry>
       </elementAttributes>
-      <pos x="480" y="420"/>
+      <pos x="480" y="340"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -181,12 +185,21 @@
           <string>Label</string>
           <string>Q</string>
         </entry>
+        <entry>
+          <string>Bits</string>
+          <int>4</int>
+        </entry>
       </elementAttributes>
       <pos x="660" y="360"/>
     </visualElement>
     <visualElement>
       <elementName>D_FF</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Bits</string>
+          <int>4</int>
+        </entry>
+      </elementAttributes>
       <pos x="580" y="360"/>
     </visualElement>
     <visualElement>
@@ -194,7 +207,7 @@
       <elementAttributes>
         <entry>
           <string>Description</string>
-          <string>DFFE</string>
+          <string>DFFE4</string>
         </entry>
       </elementAttributes>
       <pos x="540" y="280"/>

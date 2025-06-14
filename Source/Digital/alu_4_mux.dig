@@ -61,7 +61,7 @@
         </pins>
         <drawables>
           <poly>
-            <poly path="M 0.29642415,-9.703576 L 79.87164,-9.703576 L 79.87164,89.703575 L 0.29642415,89.703575 Z" evenOdd="false"/>
+            <poly path="M 0.28967836,-9.710321 L 79.387344,-9.710321 L 79.387344,89.71033 L 0.28967836,89.71033 Z" evenOdd="false"/>
             <thickness>4</thickness>
             <filled>true</filled>
             <color>
@@ -72,7 +72,7 @@
             </color>
           </poly>
           <poly>
-            <poly path="M 0.29642415,-9.703576 L 79.87164,-9.703576 L 79.87164,89.703575 L 0.29642415,89.703575 Z" evenOdd="false"/>
+            <poly path="M 0.28967836,-9.710321 L 79.387344,-9.710321 L 79.387344,89.71033 L 0.28967836,89.71033 Z" evenOdd="false"/>
             <thickness>4</thickness>
             <filled>false</filled>
             <color>
